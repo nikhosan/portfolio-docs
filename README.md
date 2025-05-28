@@ -21,4 +21,4 @@ This repository contains the following documents:
 8. **Portfolio_wedding_thankyou_insert_redacted.pdf**
      - This is a custom thank you note I designed and wrote for a couple whose guestlist exceeded 200 people. At the bride's direction, I collated four copies per page as she planned to print them for distribution to wedding guests who took portraits with the bride and groom. Names and wedding date redacted. 
 9. **Portfolio_Spec_WineProductPage_NH.pdf**
-   - This is a spec product page for a wine retailer that I created. It includes tasting notes, wine scores, and region information. 
+   - This is a spec product page for a wine retailer that I created. It includes tasting notes, wine scores, pricing and region information. 
