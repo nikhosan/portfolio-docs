@@ -10,7 +10,7 @@ All documents created and owned by Nikki HoSang.
     - This is a spec email newsletter for a small, independent tea retailer.
 3. [**Portfolio_CGL_onepager_NH.pdf**](Portfolio_CGL_onepager_NH.pdf)
    - This is a one-pager I wrote for the Caribbean Genealogy Library. It outlines and sells their services to the Library's patron population.
-4. [**Portfolio_WriteLabelAds_redacted copy_NH.pdf**](Portfolio_WriteLabelAds_redacted_copy_NH.pdf)
+4. [**Portfolio_WriteLabelAds_redacted copy_NH.pdf**](Portfolio_WriteLabelAds_redacted_%20copy_NH.pdf)
    - This is a collection of radio ads I wrote for various WriteLabel clients. Client names, phone numbers, and other sensitive data have been redacted.
   
 # Ghostwriting
