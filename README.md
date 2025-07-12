@@ -4,13 +4,15 @@ This repository contains writing and editing portfolio documents. Samples includ
 All documents created and owned by Nikki HoSang. 
 
 # Copywriting
-1. [**Portfolio_Spec_WineProductPage_NH.pdf**](Portfolio_Spec_WineProductPage_NH.pdf)
+1. [**Portfolio_VeganPateRecipeCard.pdf**](Portfolio_VeganPateRecipeCard.pdf)
+   - This is a recipe card meant to be distributed as a free resource to newsletter subscribers. Originally created in InDesign. 
+2. [**Portfolio_Spec_WineProductPage_NH.pdf**](Portfolio_Spec_WineProductPage_NH.pdf)
    - This is a spec product page for a wine retailer. It includes tasting notes, wine scores, pricing and region information. 
-2. [**Portfolio_Spec_TeaWineNewsletter_NH.pdf**](Portfolio_Spec_TeaWineNewsletter_NH.pdf)
+3. [**Portfolio_Spec_TeaWineNewsletter_NH.pdf**](Portfolio_Spec_TeaWineNewsletter_NH.pdf)
     - This is a spec email newsletter for a small, independent tea retailer.
-3. [**Portfolio_CGL_onepager_NH.pdf**](Portfolio_CGL_onepager_NH.pdf)
+4. [**Portfolio_CGL_onepager_NH.pdf**](Portfolio_CGL_onepager_NH.pdf)
    - This is a one-pager I wrote for the Caribbean Genealogy Library. It outlines and sells their services to the Library's patron population.
-4. [**Portfolio_WriteLabelAds_redacted copy_NH.pdf**](Portfolio_WriteLabelAds_redacted_%20copy_NH.pdf)
+5. [**Portfolio_WriteLabelAds_redacted copy_NH.pdf**](Portfolio_WriteLabelAds_redacted_%20copy_NH.pdf)
    - This is a collection of radio ads I wrote for various WriteLabel clients. Client names, phone numbers, and other sensitive data have been redacted.
   
 # Ghostwriting
