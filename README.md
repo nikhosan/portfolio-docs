@@ -18,7 +18,7 @@ All documents created and owned by Nikki HoSang.
    - This is a collection of radio ads I wrote for various WriteLabel clients. Client names, phone numbers, and other sensitive data have been redacted.
   
 # Ghostwriting
-6. [**Parter 1 wedding vows**](Partner1_vows_redacted.pdf)
+6. [**Partner 1 wedding vows**](Partner1_vows_redacted.pdf)
      - These are custom, private wedding vows I wrote after interviewing and working with the couple to determine what kind of tone, details, length, and so on they wanted for their ghostwritten vows.
 7. [**Partner 2 wedding vows**](Partner2_vows_redacted%20.pdf)
      - These are custom, private wedding vows I wrote after interviewing and working with the couple to determine what kind of tone, details, length, and so on they wanted for their ghostwritten vows.
