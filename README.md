@@ -4,17 +4,19 @@ This repository contains writing and editing portfolio documents. Samples includ
 All documents created and owned by Nikki HoSang. 
 
 # Copywriting
-1. [**Kulthum coffee pot owner's guide**](Kulthum_Owner_Guide.pdf)
+1. [**Wounded Healer promotional email**](WoundedHealer_PromoEmail.pdf)
+   - This is a promotional email for a subscription service aimed at healthcare providers. 
+3. [**Kulthum coffee pot owner's guide**](Kulthum_Owner_Guide.pdf)
    - This is an owner's guide for an Egyptian-style brass coffee pot. Originally created with InDesign.
-3. [**Vegan pate recipe card**](Portfolio_VeganPateRecipeCard.pdf)
+4. [**Vegan pate recipe card**](Portfolio_VeganPateRecipeCard.pdf)
    - This is a recipe card meant to be distributed as a free resource to newsletter subscribers. Originally created with InDesign. 
-4. [**Canadian icewine product page**](Portfolio_Spec_WineProductPage_NH.pdf)
+5. [**Canadian icewine product page**](Portfolio_Spec_WineProductPage_NH.pdf)
    - This is a spec product page for a wine retailer. It includes tasting notes, wine scores, pricing and region information. 
-5. [**Wine-infused tea email newsletter**](Portfolio_Spec_TeaWineNewsletter_NH.pdf)
+6. [**Wine-infused tea email newsletter**](Portfolio_Spec_TeaWineNewsletter_NH.pdf)
     - This is a spec email newsletter for a small, independent tea retailer.
-6. [**Caribbean Genealogy Library one-pager**](Portfolio_CGL_onepager_NH.pdf)
+7. [**Caribbean Genealogy Library one-pager**](Portfolio_CGL_onepager_NH.pdf)
    - This is a one-pager I wrote for the Caribbean Genealogy Library. It outlines and sells their services to the Library's patron population.
-7. [**WriteLabel radio ads**](Portfolio_WriteLabelAds_redacted_%20copy_NH.pdf)
+8. [**WriteLabel radio ads**](Portfolio_WriteLabelAds_redacted_%20copy_NH.pdf)
    - This is a collection of radio ads I wrote for various WriteLabel clients. Client names, phone numbers, and other sensitive data have been redacted.
   
 # Ghostwriting
